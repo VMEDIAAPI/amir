@@ -1,0 +1,7 @@
+
+{
+  "version": 2,
+  "routes": [
+    { "src": "/instagram", "methods": ["GET"], "dest": "/api/instagram.js" }
+  ]
+}
